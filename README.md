@@ -1,2 +1,2 @@
-# Prog2Unidad5H
-Proyecto para hacer el teórico de la unidad de ArrayList
+# Prog2Unidad5
+Proyecto del teórico de la Unidad 5 (ArrayList)

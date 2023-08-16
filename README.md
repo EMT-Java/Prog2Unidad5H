@@ -1,2 +1,2 @@
-# Prog2Unidad6
-Proyecto del teórico de la Unidad 6 (ArrayList)
+# Prog2Unidad5
+Proyecto del teórico de la Unidad 5 (ArrayList)

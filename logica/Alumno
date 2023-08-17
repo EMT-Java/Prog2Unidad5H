@@ -14,7 +14,7 @@ public class Alumno {
 		nacimiento=new Fecha();
 	}
 	
-	//constructor especÃ­fico
+	//constructor especi­fico
 	public Alumno(String ape, int gru, double cu, Fecha nacim) {
 		apellido=ape;
 		grupo=gru;
